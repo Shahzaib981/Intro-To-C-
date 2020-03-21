@@ -1,0 +1,13 @@
+C:\VS Programs\Constructors\Exception_Handling\bin\Debug\netcoreapp3.1\Exception_Handling.exe
+C:\VS Programs\Constructors\Exception_Handling\bin\Debug\netcoreapp3.1\Exception_Handling.deps.json
+C:\VS Programs\Constructors\Exception_Handling\bin\Debug\netcoreapp3.1\Exception_Handling.runtimeconfig.json
+C:\VS Programs\Constructors\Exception_Handling\bin\Debug\netcoreapp3.1\Exception_Handling.runtimeconfig.dev.json
+C:\VS Programs\Constructors\Exception_Handling\bin\Debug\netcoreapp3.1\Exception_Handling.dll
+C:\VS Programs\Constructors\Exception_Handling\bin\Debug\netcoreapp3.1\Exception_Handling.pdb
+C:\VS Programs\Constructors\Exception_Handling\obj\Debug\netcoreapp3.1\Exception_Handling.csprojAssemblyReference.cache
+C:\VS Programs\Constructors\Exception_Handling\obj\Debug\netcoreapp3.1\Exception_Handling.csproj.CoreCompileInputs.cache
+C:\VS Programs\Constructors\Exception_Handling\obj\Debug\netcoreapp3.1\Exception_Handling.AssemblyInfoInputs.cache
+C:\VS Programs\Constructors\Exception_Handling\obj\Debug\netcoreapp3.1\Exception_Handling.AssemblyInfo.cs
+C:\VS Programs\Constructors\Exception_Handling\obj\Debug\netcoreapp3.1\Exception_Handling.dll
+C:\VS Programs\Constructors\Exception_Handling\obj\Debug\netcoreapp3.1\Exception_Handling.pdb
+C:\VS Programs\Constructors\Exception_Handling\obj\Debug\netcoreapp3.1\Exception_Handling.genruntimeconfig.cache
